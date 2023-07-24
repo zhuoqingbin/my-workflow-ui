@@ -1,0 +1,72 @@
+{
+  "id": "4177422",
+  "name": "流程",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5387522",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "eaf2",
+      "unicode_decimal": 60146
+    },
+    {
+      "icon_id": "33987167",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "22779630",
+      "name": "数译_上移-箭头",
+      "font_class": "shangyi",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "22779651",
+      "name": "数译_下移-箭头",
+      "font_class": "xiayi",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "1788581",
+      "name": "添加",
+      "font_class": "tianjia",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "3663275",
+      "name": "审批",
+      "font_class": "shenpi",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "22833921",
+      "name": "两新组织",
+      "font_class": "fenzhi",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "23730038",
+      "name": "抄送我的_fill",
+      "font_class": "chaosongwode_fill",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "4425832",
+      "name": "右边",
+      "font_class": "xiangyou",
+      "unicode": "e79a",
+      "unicode_decimal": 59290
+    }
+  ]
+}
